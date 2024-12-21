@@ -1,0 +1,15 @@
+F:\Bai1\Bai1\bin\Debug\Bai1.exe.config
+F:\Bai1\Bai1\bin\Debug\Bai1.exe
+F:\Bai1\Bai1\bin\Debug\Bai1.pdb
+F:\Bai1\Bai1\bin\Debug\EntityFramework.dll
+F:\Bai1\Bai1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Bai1\Bai1\bin\Debug\EntityFramework.xml
+F:\Bai1\Bai1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+F:\Bai1\Bai1\obj\Debug\Bai1.frmStudentManagement.resources
+F:\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+F:\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+F:\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+F:\Bai1\Bai1\obj\Debug\Bai1.csproj.Up2Date
+F:\Bai1\Bai1\obj\Debug\Bai1.exe
+F:\Bai1\Bai1\obj\Debug\Bai1.pdb

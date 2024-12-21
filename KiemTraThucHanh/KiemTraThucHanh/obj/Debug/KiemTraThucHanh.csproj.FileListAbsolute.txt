@@ -1,0 +1,15 @@
+F:\KiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.exe.config
+F:\KiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.exe
+F:\KiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.pdb
+F:\KiemTraThucHanh\KiemTraThucHanh\bin\Debug\EntityFramework.dll
+F:\KiemTraThucHanh\KiemTraThucHanh\bin\Debug\EntityFramework.SqlServer.dll
+F:\KiemTraThucHanh\KiemTraThucHanh\bin\Debug\EntityFramework.xml
+F:\KiemTraThucHanh\KiemTraThucHanh\bin\Debug\EntityFramework.SqlServer.xml
+F:\KiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.csproj.AssemblyReference.cache
+F:\KiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.Form1.resources
+F:\KiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.Properties.Resources.resources
+F:\KiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.csproj.GenerateResource.cache
+F:\KiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.csproj.CoreCompileInputs.cache
+F:\KiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraT.9013ADE4.Up2Date
+F:\KiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.exe
+F:\KiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.pdb
